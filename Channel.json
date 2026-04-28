@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Radio",
+    "channels": [
+      {
+        "name": "Hot 97",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Hot_97_logo.svg/512px-Hot_97_logo.svg.png"
+      }
+    ]
+  },
+  {
+    "category": "Sports",
+    "channels": [
+      {
+        "name": "UFC (USA)",
+        "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "category": "Movies",
+    "channels": [
+      {
+        "name": "Warner TV",
+        "url": "https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Wild Nature Channel",
+        "url": "https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8",
+        "logo": ""
+      }
+    ]
+  }
+]
